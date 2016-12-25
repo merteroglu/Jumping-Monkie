@@ -1,0 +1,7 @@
+TarzanMonkey/Library/*
+TarzanMonkey/Temp/*
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+*.unityproj
